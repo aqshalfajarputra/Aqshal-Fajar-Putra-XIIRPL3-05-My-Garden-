@@ -8,4 +8,4 @@ The app illustrates the power of widgets and collection widgets by making it eas
 ![screenshot_2017-12-16-22-30-07-714_com example android mygarden](https://user-images.githubusercontent.com/22128258/34072057-3292f9ee-e2b3-11e7-9cd1-afbd8fa0e4bf.png)
 ![image](https://user-images.githubusercontent.com/22128258/34072086-ad5102ac-e2b3-11e7-96f8-34b8157c95f7.png)
 
-## Aqshal Fajar Putra, XIRPL1, 02, 4667/1386.070, SMK Telkom Malang.
+## Aqshal Fajar Putra, XIIRPL3, 05, 4667/1386.070, SMK Telkom Malang.
